@@ -38,12 +38,3 @@ whether a new message is spam.
 - F1 Score
 - Confusion Matrix
 
-
-
-
-
-
-
-# Author
-Amit Kumar
-Machine Learning Project
