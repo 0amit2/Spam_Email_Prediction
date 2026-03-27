@@ -18,7 +18,7 @@ whether a new message is spam.
 - Pandas
 - NumPy
 - NLTK
-- Matplotlib / Seaborn
+
 
 
 # Model Workflow
